@@ -1,8 +1,8 @@
 # Recitation-016-Team-6
-
+Project Team Members:
 Zak Basso       - Rerare  
-Joseph Kneusel  - jebl8843  
-Suman upreti    - jkneusel  
-Jesse Black     - suman421159  
+Joseph Kneusel  - jkneusel 
+Suman upreti    - suman421159 
+Jesse Black     - jebl8843    
 
 

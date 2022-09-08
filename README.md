@@ -2,7 +2,8 @@
 
 Zak Basso       - Rerare  
 Joseph Kneusel  - jkneusel
-Suman upreti    - suman421159   
+Suman Upreti    - suman421159   
 Jesse Black     - jebl8843 
 
 
+Project Team Members: Zak Basso

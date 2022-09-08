@@ -1,8 +1,8 @@
 # Recitation-016-Team-6
 
-Zak Basso       - Rerare  
+Zak Basso       - Rerare
 Joseph Kneusel  - jkneusel
-Suman upreti    - suman421159   
-Jesse Black     - jebl8843 
+Suman upreti    - suman421159
+Jesse Black     - jebl8843
 
 
